@@ -1,4 +1,4 @@
-##optimal_strategy_for_game
+## Optimal Strategy for a game
 
 Two players are playing a game with an array: player 1 and player 2.
 You are given an integer array nums. Two players are playing a game with this array: player 1 and player 2.
